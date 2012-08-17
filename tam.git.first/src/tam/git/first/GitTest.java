@@ -6,7 +6,7 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Fuck this bullshit");
+		System.out.println("Fuck this shit");
 	}
 
 }
